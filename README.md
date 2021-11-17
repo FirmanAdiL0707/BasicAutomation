@@ -10,16 +10,19 @@ Learning Automation via JakartaLabs. You will lear about Selenium Automation, AP
 #Code Structure
 
 1. Tugas 1 
-Go to .src/test/java/tugas1.MAP
+Go to .Tugas_FirmanAdi/src/test/java/tugas1.MAP
 
 2. Tugas 2
-Go to .src/test/java/tugas2.Calculator
+Go to .Tugas_FirmanAdi/src/test/java/tugas2.Calculator
 
 3. Tugas 3 
-Go to .src/test/java/tugas3.YopMail
+Go to .Tugas_FirmanAdi/src/test/java/tugas3.YopMail
 
 4. Tugas 4
-Go to .src/test/java/MakeMyTrip
+Go to .Tugas_FirmanAdi/src/test/java/MakeMyTrip
 
 5. Tugas 5
-Go to .src/test/java/tugas5.SignUp
+Go to .Tugas_FirmanAdi/src/test/java/tugas5.SignUp
+
+6. Tugas 7 
+Outside of Tugas_FirmanAdi directory --> tugas7_GetAllValueOfBuildCard
